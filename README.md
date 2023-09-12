@@ -4,7 +4,7 @@ My name is IRANZI Thierry and I am a student at George Fox De Kagarama. I have a
 
 - <b>🔭 I’m currently working on</b> ...
   * Completing Machine learning FreeCodeCamp certification
-  * Adding New features to my music downloader app<a href="https://e-sound-54229c2685da.herokuapp.com" style="color: red;">eSound</a>
+  * Adding New features to my music downloader app <a href="https://e-sound-54229c2685da.herokuapp.com" style="color: red !important;">eSound</a>
   * Possibly pushing out a new concept when time permits
 
 - 📔 I plan on working on ... 
