@@ -1,5 +1,5 @@
 ### About
-<body style="text-transform: capitalize;>
+<body style="text-transform: capitalize;">
 My name is IRANZI Thierry and I am a student at George Fox De Kagarama. I have a wide array projects and a diverse skills in web development <b>Frontend && Backend , API development , SPA(Single Page Application) , Database Designer , IT Support</b>
 
 - <b>🔭 I’m currently working on</b> ...
