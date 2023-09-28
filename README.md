@@ -2,7 +2,7 @@
 <body style="text-transform: capitalize;">
 My name is IRANZI Thierry and I am a student at George Fox De Kagarama. I have a wide array projects and a diverse skills in web development <b>Frontend && Backend , API development , SPA(Single Page Application) , Database Designer , IT Support</b>
 
-[![Iranzi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oobabooga)](https://github.com/oobabooga)
+[![Iranzi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iranzithierry)](https://github.com/Iranzithierry)
 
 - <b>🔭 I’m currently working on</b> ...
   * Adding New features to my music downloader app <a href="https://e-sound-54229c2685da.herokuapp.com"><b>eSound</b></a>
