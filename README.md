@@ -6,7 +6,7 @@ My name is IRANZI Thierry and I am a student at George Fox De Kagarama. I have a
  
 - <b>🔭 I’m currently working on</b> ...
   * Adding New features to my music downloader app <a href="https://e-sound-54229c2685da.herokuapp.com"><b>eSound</b></a>
-  * Completing my portofolio <a href="https://portofolio-thierry-5a2e529f5670.herokuapp.com/"><b>IRANZI Thierry</b></a>
+  * Making posts on my blog Website  <a href="https://iranzi.hashnode.dev"><b>IRANZI Thierry</b></a>
   * Completing E-learning SPA YouthCodeCamp <a href="https://youth-code-camp-b3de8bd6f16f.herokuapp.com/"><b>Youth Code Camp</b></a>
   * Possibly pushing out a new concept when time permits
 
