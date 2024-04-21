@@ -1,6 +1,3 @@
-<body style="text-transform: capitalize;">
-Hello �
-  <h3 align="center">Languages and Tools:</h3>
 <table align="center">
   <tr>
     <td style="padding: 10px;">
@@ -66,5 +63,4 @@ Hello �
       </a>
     </td>
   </tr>
-</table>�
-</body>
+</table>
