@@ -62,5 +62,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
       </a>
     </td>
+    <td style="padding: 10px;">
+      <a href="https://docker.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"alt="react" width="40" height="40"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://nginx.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"alt="react" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
