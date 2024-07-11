@@ -1,8 +1,9 @@
-<center>
+<p align="center">
     <a href="https://leetcode.com/iranzithierry">
         <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
     </a>
-</center>
+</p>
+<br>
 <table align="center">
   <tr>
     <td style="padding: 10px;">
