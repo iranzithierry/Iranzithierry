@@ -1,7 +1,10 @@
+
 <table align="center">
-   <a href="https://leetcode.com/iranzithierry">
+   <tr>
+      <a href="https://leetcode.com/iranzithierry">
         <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
     </a>
+   </tr>
   <tr>
     <td style="padding: 10px;">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
