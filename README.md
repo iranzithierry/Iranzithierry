@@ -2,7 +2,9 @@
     <a href="https://leetcode.com/iranzithierry">
         <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode" alt="LeetCode">
     </a>
-    ![](https://hit.yhype.me/github/profile?user_id=115815954)
+    <a href="https://leetcode.com/iranzithierry">
+        <img src="https://hit.yhype.me/github/profile?user_id=115815954" alt="Analytics">
+    </a>
 </p>
 <br>
 <table align="center">
